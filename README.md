@@ -1,4 +1,3 @@
-# Pacman-Search-Agent
 Artificial Intelligence search algorithm base on Pacman
 
 Depth-First Search:
